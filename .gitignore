@@ -1,0 +1,3 @@
+# python virtual env
+/stbp_venv
+/src/*/__pycache__
