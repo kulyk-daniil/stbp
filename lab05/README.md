@@ -51,7 +51,7 @@ o	для C/C++ - Ghidra, IDA Pro
 
 Декомпільована функція dec
 
-![dec](/lab12/doc/dec_dec.png)
+![dec](/lab05/doc/dec_dec.png)
 
 Адреса функції CRC_16_IBM
 
