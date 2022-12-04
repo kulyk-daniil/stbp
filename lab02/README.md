@@ -156,12 +156,15 @@ def inv_mix_columns(s):
 ## Результати роботи програми
 
 Результат виконання програми
+
 ![Результат виконання програми](/lab02/doc/my_aes128.png)
 
 Перевірка результату шифрування
+
 ![https://cryptii.com](/lab02/doc/online_encrypt.png)
 
 Перевірка результату дешифрування
+
 ![https://cryptii.com](/lab02/doc/online_decrypt.png)
 
 ## Висновки
